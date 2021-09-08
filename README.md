@@ -1,0 +1,2 @@
+# Movie-PersonalityDataCorrelation
+This project was created in an effort to make a connection between movie ratings and personality traits that people self-identified. The classifications were used with Pythons Machine Learning package (Scikit) where a CART approach was applied to the data after some necessary pruning. The data was used from Kaggle (https://www.kaggle.com/arslanali4343/top-personality-dataset) and was assumed to be reliable.
